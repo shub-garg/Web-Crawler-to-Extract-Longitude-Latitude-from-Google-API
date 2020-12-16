@@ -1,6 +1,6 @@
 # Web-Crawler-to-Extract-Longitude-and-Latitude-from-Google-maps-API
 
-It takes a Rough Location as an Input and prints the exact location with logitude and latitude as on Google Maps.
+It takes a Rough Location as an Input and prints the exact location with longitude and latitude as on Google Maps.
 
 <img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/1._Intro_Image.max-1000x1000.png" width="800" height="350">
 
